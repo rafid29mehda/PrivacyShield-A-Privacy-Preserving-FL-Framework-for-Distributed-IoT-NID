@@ -1,8 +1,5 @@
 # PrivacyShield-A-Privacy-Preserving-FL-Framework-for-Distributed-IoT-NID
 
-
-# PrivacyShield: A Privacy-Preserving Federated Learning Framework for Distributed IoT Network Intrusion Detection
-
 ## Overview
 
 PrivacyShield is a federated learning system that enables collaborative training of intrusion detection models across distributed IoT networks while preserving data privacy through differential privacy mechanisms. The system leverages the TON-IoT dataset to detect multiple types of network attacks without centralizing sensitive network traffic data.
